@@ -23,3 +23,5 @@ Then Edit the Information.json file to the Details you need:
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCVlqnigRMu-OkQ4Xf5YDrrA?label=Subscribe&logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCVlqnigRMu-OkQ4Xf5YDrrA)
 
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal)](https://paypal.me/repgraphics?country.x=GB&locale.x=en_GB)
+
+[![Discord](https://img.shields.io/discord/812467944420409355?color=blueviolet&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/GwJKw7KP9J)
